@@ -1,0 +1,4 @@
+﻿  CircleArea.cpp
+C:\Users\HP\Documents\Learning c++\CircleArea\CircleArea\CircleArea.cpp(22,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\Documents\Learning c++\CircleArea\CircleArea\CircleArea.cpp(24,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CircleArea.vcxproj -> C:\Users\HP\Documents\Learning c++\CircleArea\x64\Debug\CircleArea.exe

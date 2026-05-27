@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PrintNumbersFromNto1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C20AF4-22DA-4B18-8AED-7A7421BA61C2}|PrintNumbersFromNto1\\PrintNumbersFromNto1.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PrintNumbersFromNto1\\PrintNumbersFromNto1\\PrintNumbersFromNto1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9C20AF4-22DA-4B18-8AED-7A7421BA61C2}|PrintNumbersFromNto1\\PrintNumbersFromNto1.vcxproj|solutionrelative:PrintNumbersFromNto1\\PrintNumbersFromNto1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintNumbersFromNto1.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PrintNumbersFromNto1\\PrintNumbersFromNto1\\PrintNumbersFromNto1.cpp",
+              "RelativeDocumentMoniker": "PrintNumbersFromNto1\\PrintNumbersFromNto1.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PrintNumbersFromNto1\\PrintNumbersFromNto1\\PrintNumbersFromNto1.cpp",
+              "RelativeToolTip": "PrintNumbersFromNto1\\PrintNumbersFromNto1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T13:33:48.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

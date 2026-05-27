@@ -1,0 +1,5 @@
+﻿  ServiceFeeAndSalesTax.cpp
+C:\Users\HP\Documents\Learning c++\ServiceFeeAndSalesTax\ServiceFeeAndSalesTax\ServiceFeeAndSalesTax.cpp(21,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Documents\Learning c++\ServiceFeeAndSalesTax\ServiceFeeAndSalesTax\ServiceFeeAndSalesTax.cpp(27,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Documents\Learning c++\ServiceFeeAndSalesTax\ServiceFeeAndSalesTax\ServiceFeeAndSalesTax.cpp(36,13): warning C4129: 'T': unrecognized character escape sequence
+  ServiceFeeAndSalesTax.vcxproj -> C:\Users\HP\Documents\Learning c++\ServiceFeeAndSalesTax\x64\Debug\ServiceFeeAndSalesTax.exe

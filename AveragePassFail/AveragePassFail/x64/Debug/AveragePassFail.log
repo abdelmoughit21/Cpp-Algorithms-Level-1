@@ -1,0 +1,3 @@
+﻿  AveragePassFail.cpp
+C:\Users\HP\Documents\Learning c++\AveragePassFail\AveragePassFail\AveragePassFail.cpp(54,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  AveragePassFail.vcxproj -> C:\Users\HP\Documents\Learning c++\AveragePassFail\x64\Debug\AveragePassFail.exe

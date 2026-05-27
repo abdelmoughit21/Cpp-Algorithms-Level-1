@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\CommissionPercentage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7651CB74-A239-4900-AB0C-1119CAEE143E}|CommissionPercentage\\CommissionPercentage.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\CommissionPercentage\\CommissionPercentage\\CommissionPercentage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7651CB74-A239-4900-AB0C-1119CAEE143E}|CommissionPercentage\\CommissionPercentage.vcxproj|solutionrelative:CommissionPercentage\\CommissionPercentage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommissionPercentage.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\CommissionPercentage\\CommissionPercentage\\CommissionPercentage.cpp",
+              "RelativeDocumentMoniker": "CommissionPercentage\\CommissionPercentage.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\CommissionPercentage\\CommissionPercentage\\CommissionPercentage.cpp",
+              "RelativeToolTip": "CommissionPercentage\\CommissionPercentage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T14:36:23.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

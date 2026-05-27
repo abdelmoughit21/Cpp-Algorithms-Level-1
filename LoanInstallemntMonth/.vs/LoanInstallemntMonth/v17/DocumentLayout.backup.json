@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\LoanInstallemntMonth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9043F9B2-08B2-4D1D-A93D-21EE16CD3E25}|LoanInstallemntMonth\\LoanInstallemntMonth.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\LoanInstallemntMonth\\LoanInstallemntMonth\\LoanInstallemntMonth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9043F9B2-08B2-4D1D-A93D-21EE16CD3E25}|LoanInstallemntMonth\\LoanInstallemntMonth.vcxproj|solutionrelative:LoanInstallemntMonth\\LoanInstallemntMonth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanInstallemntMonth.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\LoanInstallemntMonth\\LoanInstallemntMonth\\LoanInstallemntMonth.cpp",
+              "RelativeDocumentMoniker": "LoanInstallemntMonth\\LoanInstallemntMonth.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\LoanInstallemntMonth\\LoanInstallemntMonth\\LoanInstallemntMonth.cpp",
+              "RelativeToolTip": "LoanInstallemntMonth\\LoanInstallemntMonth.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-23T10:23:01.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

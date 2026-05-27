@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\CircleArea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C53AE33F-3435-48F3-8D5A-004B7CB15A78}|CircleArea\\CircleArea.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\CircleArea\\CircleArea\\CircleArea.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C53AE33F-3435-48F3-8D5A-004B7CB15A78}|CircleArea\\CircleArea.vcxproj|solutionrelative:CircleArea\\CircleArea.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CircleArea.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\CircleArea\\CircleArea\\CircleArea.cpp",
+              "RelativeDocumentMoniker": "CircleArea\\CircleArea.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\CircleArea\\CircleArea\\CircleArea.cpp",
+              "RelativeToolTip": "CircleArea\\CircleArea.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T12:12:23.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

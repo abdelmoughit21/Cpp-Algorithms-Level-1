@@ -1,0 +1,5 @@
+﻿  SecondsToDaysHoursMinutesSeconds.cpp
+C:\Users\HP\Documents\Learning c++\SecondsToDaysHoursMinutesSeconds\SecondsToDaysHoursMinutesSeconds\SecondsToDaysHoursMinutesSeconds.cpp(33,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\Documents\Learning c++\SecondsToDaysHoursMinutesSeconds\SecondsToDaysHoursMinutesSeconds\SecondsToDaysHoursMinutesSeconds.cpp(37,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\Documents\Learning c++\SecondsToDaysHoursMinutesSeconds\SecondsToDaysHoursMinutesSeconds\SecondsToDaysHoursMinutesSeconds.cpp(41,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SecondsToDaysHoursMinutesSeconds.vcxproj -> C:\Users\HP\Documents\Learning c++\SecondsToDaysHoursMinutesSeconds\x64\Debug\SecondsToDaysHoursMinutesSeconds.exe

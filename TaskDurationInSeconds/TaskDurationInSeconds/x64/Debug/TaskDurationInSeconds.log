@@ -1,0 +1,6 @@
+﻿  TaskDurationInSeconds.cpp
+C:\Users\HP\Documents\Learning c++\TaskDurationInSeconds\TaskDurationInSeconds\TaskDurationInSeconds.cpp(60,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Documents\Learning c++\TaskDurationInSeconds\TaskDurationInSeconds\TaskDurationInSeconds.cpp(60,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Documents\Learning c++\TaskDurationInSeconds\TaskDurationInSeconds\TaskDurationInSeconds.cpp(61,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Documents\Learning c++\TaskDurationInSeconds\TaskDurationInSeconds\TaskDurationInSeconds.cpp(61,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  TaskDurationInSeconds.vcxproj -> C:\Users\HP\Documents\Learning c++\TaskDurationInSeconds\x64\Debug\TaskDurationInSeconds.exe

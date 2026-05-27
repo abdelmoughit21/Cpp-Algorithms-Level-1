@@ -1,0 +1,4 @@
+﻿  CircleAreaInscribedInASquare.cpp
+C:\Users\HP\Documents\Learning c++\CircleAreaInscribedInASquare\CircleAreaInscribedInASquare\CircleAreaInscribedInASquare.cpp(22,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\Documents\Learning c++\CircleAreaInscribedInASquare\CircleAreaInscribedInASquare\CircleAreaInscribedInASquare.cpp(24,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CircleAreaInscribedInASquare.vcxproj -> C:\Users\HP\Documents\Learning c++\CircleAreaInscribedInASquare\x64\Debug\CircleAreaInscribedInASquare.exe

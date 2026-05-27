@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\WeeksAndDays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{756DD3A2-919F-4C08-A339-2445E51CED14}|WeeksAndDays\\WeeksAndDays.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\WeeksAndDays\\WeeksAndDays\\WeeksAndDays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{756DD3A2-919F-4C08-A339-2445E51CED14}|WeeksAndDays\\WeeksAndDays.vcxproj|solutionrelative:WeeksAndDays\\WeeksAndDays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeeksAndDays.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\WeeksAndDays\\WeeksAndDays\\WeeksAndDays.cpp",
+              "RelativeDocumentMoniker": "WeeksAndDays\\WeeksAndDays.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\WeeksAndDays\\WeeksAndDays\\WeeksAndDays.cpp",
+              "RelativeToolTip": "WeeksAndDays\\WeeksAndDays.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T17:05:23.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

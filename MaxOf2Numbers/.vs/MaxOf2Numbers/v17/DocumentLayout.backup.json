@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\MaxOf2Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BD2288-64A6-418A-96A2-69EE0B3C28D8}|MaxOf2Numbers\\MaxOf2Numbers.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\MaxOf2Numbers\\MaxOf2Numbers\\MaxOf2Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5BD2288-64A6-418A-96A2-69EE0B3C28D8}|MaxOf2Numbers\\MaxOf2Numbers.vcxproj|solutionrelative:MaxOf2Numbers\\MaxOf2Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaxOf2Numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\MaxOf2Numbers\\MaxOf2Numbers\\MaxOf2Numbers.cpp",
+              "RelativeDocumentMoniker": "MaxOf2Numbers\\MaxOf2Numbers.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\MaxOf2Numbers\\MaxOf2Numbers\\MaxOf2Numbers.cpp",
+              "RelativeToolTip": "MaxOf2Numbers\\MaxOf2Numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T11:36:17.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

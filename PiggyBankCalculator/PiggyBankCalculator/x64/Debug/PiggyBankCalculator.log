@@ -1,0 +1,4 @@
+﻿  PiggyBankCalculator.cpp
+C:\Users\HP\Documents\Learning c++\PiggyBankCalculator\PiggyBankCalculator\PiggyBankCalculator.cpp(14,13): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\HP\Documents\Learning c++\PiggyBankCalculator\PiggyBankCalculator\PiggyBankCalculator.cpp(37,89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PiggyBankCalculator.vcxproj -> C:\Users\HP\Documents\Learning c++\PiggyBankCalculator\x64\Debug\PiggyBankCalculator.exe

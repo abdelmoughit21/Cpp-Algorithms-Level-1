@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\CircleAreaInscribedInAnIsoscelesTriangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12D5CB89-F707-43B7-85BA-A31D8415BCA3}|CircleAreaInscribedInAnIsoscelesTriangle\\CircleAreaInscribedInAnIsoscelesTriangle.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\CircleAreaInscribedInAnIsoscelesTriangle\\CircleAreaInscribedInAnIsoscelesTriangle\\CircleAreaInscribedInAnIsoscelesTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12D5CB89-F707-43B7-85BA-A31D8415BCA3}|CircleAreaInscribedInAnIsoscelesTriangle\\CircleAreaInscribedInAnIsoscelesTriangle.vcxproj|solutionrelative:CircleAreaInscribedInAnIsoscelesTriangle\\CircleAreaInscribedInAnIsoscelesTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CircleAreaInscribedInAnIsoscelesTriangle.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\CircleAreaInscribedInAnIsoscelesTriangle\\CircleAreaInscribedInAnIsoscelesTriangle\\CircleAreaInscribedInAnIsoscelesTriangle.cpp",
+              "RelativeDocumentMoniker": "CircleAreaInscribedInAnIsoscelesTriangle\\CircleAreaInscribedInAnIsoscelesTriangle.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\CircleAreaInscribedInAnIsoscelesTriangle\\CircleAreaInscribedInAnIsoscelesTriangle\\CircleAreaInscribedInAnIsoscelesTriangle.cpp",
+              "RelativeToolTip": "CircleAreaInscribedInAnIsoscelesTriangle\\CircleAreaInscribedInAnIsoscelesTriangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T12:29:06.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

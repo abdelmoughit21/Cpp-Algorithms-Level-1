@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PowerOf234WithouUsingBuiltInFunctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82C30B1A-6F67-41D0-AF78-6CAB4A746B56}|PowerOf234WithouUsingBuiltInFunctions\\PowerOf234WithouUsingBuiltInFunctions.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PowerOf234WithouUsingBuiltInFunctions\\PowerOf234WithouUsingBuiltInFunctions\\PowerOf234WithouUsingBuiltInFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82C30B1A-6F67-41D0-AF78-6CAB4A746B56}|PowerOf234WithouUsingBuiltInFunctions\\PowerOf234WithouUsingBuiltInFunctions.vcxproj|solutionrelative:PowerOf234WithouUsingBuiltInFunctions\\PowerOf234WithouUsingBuiltInFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PowerOf234WithouUsingBuiltInFunctions.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PowerOf234WithouUsingBuiltInFunctions\\PowerOf234WithouUsingBuiltInFunctions\\PowerOf234WithouUsingBuiltInFunctions.cpp",
+              "RelativeDocumentMoniker": "PowerOf234WithouUsingBuiltInFunctions\\PowerOf234WithouUsingBuiltInFunctions.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PowerOf234WithouUsingBuiltInFunctions\\PowerOf234WithouUsingBuiltInFunctions\\PowerOf234WithouUsingBuiltInFunctions.cpp",
+              "RelativeToolTip": "PowerOf234WithouUsingBuiltInFunctions\\PowerOf234WithouUsingBuiltInFunctions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T14:01:39.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

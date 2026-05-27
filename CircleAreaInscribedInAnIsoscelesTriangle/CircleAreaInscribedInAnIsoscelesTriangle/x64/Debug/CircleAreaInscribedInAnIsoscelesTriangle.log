@@ -1,0 +1,4 @@
+﻿  CircleAreaInscribedInAnIsoscelesTriangle.cpp
+C:\Users\HP\Documents\Learning c++\CircleAreaInscribedInAnIsoscelesTriangle\CircleAreaInscribedInAnIsoscelesTriangle\CircleAreaInscribedInAnIsoscelesTriangle.cpp(22,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\Documents\Learning c++\CircleAreaInscribedInAnIsoscelesTriangle\CircleAreaInscribedInAnIsoscelesTriangle\CircleAreaInscribedInAnIsoscelesTriangle.cpp(24,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CircleAreaInscribedInAnIsoscelesTriangle.vcxproj -> C:\Users\HP\Documents\Learning c++\CircleAreaInscribedInAnIsoscelesTriangle\x64\Debug\CircleAreaInscribedInAnIsoscelesTriangle.exe

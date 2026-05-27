@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PowerOfM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BA0B4C-04F6-48F5-8812-67CAD0540BEF}|PowerOfM\\PowerOfM.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PowerOfM\\PowerOfM\\PowerOfM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4BA0B4C-04F6-48F5-8812-67CAD0540BEF}|PowerOfM\\PowerOfM.vcxproj|solutionrelative:PowerOfM\\PowerOfM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PowerOfM.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PowerOfM\\PowerOfM\\PowerOfM.cpp",
+              "RelativeDocumentMoniker": "PowerOfM\\PowerOfM.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PowerOfM\\PowerOfM\\PowerOfM.cpp",
+              "RelativeToolTip": "PowerOfM\\PowerOfM.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T14:08:52.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

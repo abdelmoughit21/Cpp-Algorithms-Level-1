@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\SumOf3Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C967028-4A1B-4BF5-BC5A-20B88F399147}|SumOf3Numbers\\SumOf3Numbers.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\SumOf3Numbers\\SumOf3Numbers\\SumOf3Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C967028-4A1B-4BF5-BC5A-20B88F399147}|SumOf3Numbers\\SumOf3Numbers.vcxproj|solutionrelative:SumOf3Numbers\\SumOf3Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumOf3Numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\SumOf3Numbers\\SumOf3Numbers\\SumOf3Numbers.cpp",
+              "RelativeDocumentMoniker": "SumOf3Numbers\\SumOf3Numbers.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\SumOf3Numbers\\SumOf3Numbers\\SumOf3Numbers.cpp",
+              "RelativeToolTip": "SumOf3Numbers\\SumOf3Numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T11:14:32.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

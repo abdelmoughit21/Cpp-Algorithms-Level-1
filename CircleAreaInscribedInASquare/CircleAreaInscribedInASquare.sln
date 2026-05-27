@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CircleAreaInscribedInASquare", "CircleAreaInscribedInASquare\CircleAreaInscribedInASquare.vcxproj", "{69936533-87BF-4826-AB86-6F0C4A924706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69936533-87BF-4826-AB86-6F0C4A924706}.Debug|x64.ActiveCfg = Debug|x64
+		{69936533-87BF-4826-AB86-6F0C4A924706}.Debug|x64.Build.0 = Debug|x64
+		{69936533-87BF-4826-AB86-6F0C4A924706}.Debug|x86.ActiveCfg = Debug|Win32
+		{69936533-87BF-4826-AB86-6F0C4A924706}.Debug|x86.Build.0 = Debug|Win32
+		{69936533-87BF-4826-AB86-6F0C4A924706}.Release|x64.ActiveCfg = Release|x64
+		{69936533-87BF-4826-AB86-6F0C4A924706}.Release|x64.Build.0 = Release|x64
+		{69936533-87BF-4826-AB86-6F0C4A924706}.Release|x86.ActiveCfg = Release|Win32
+		{69936533-87BF-4826-AB86-6F0C4A924706}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64A7D9BB-D787-4FD6-86B3-6B2BB78A0331}
+	EndGlobalSection
+EndGlobal

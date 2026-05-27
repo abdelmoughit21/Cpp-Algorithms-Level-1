@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PiggyBankCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3241C30F-518B-44E1-A18F-51339399A9E2}|PiggyBankCalculator\\PiggyBankCalculator.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PiggyBankCalculator\\PiggyBankCalculator\\PiggyBankCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3241C30F-518B-44E1-A18F-51339399A9E2}|PiggyBankCalculator\\PiggyBankCalculator.vcxproj|solutionrelative:PiggyBankCalculator\\PiggyBankCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PiggyBankCalculator.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PiggyBankCalculator\\PiggyBankCalculator\\PiggyBankCalculator.cpp",
+              "RelativeDocumentMoniker": "PiggyBankCalculator\\PiggyBankCalculator.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PiggyBankCalculator\\PiggyBankCalculator\\PiggyBankCalculator.cpp",
+              "RelativeToolTip": "PiggyBankCalculator\\PiggyBankCalculator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T14:52:29.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

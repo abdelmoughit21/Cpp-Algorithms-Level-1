@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\AverageOf3Marks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32A181BE-7D1F-4566-ADA2-285B55298A65}|AverageOf3Marks\\AverageOf3Marks.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\AverageOf3Marks\\AverageOf3Marks\\AverageOf3Marks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32A181BE-7D1F-4566-ADA2-285B55298A65}|AverageOf3Marks\\AverageOf3Marks.vcxproj|solutionrelative:AverageOf3Marks\\AverageOf3Marks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AverageOf3Marks.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\AverageOf3Marks\\AverageOf3Marks\\AverageOf3Marks.cpp",
+              "RelativeDocumentMoniker": "AverageOf3Marks\\AverageOf3Marks.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\AverageOf3Marks\\AverageOf3Marks\\AverageOf3Marks.cpp",
+              "RelativeToolTip": "AverageOf3Marks\\AverageOf3Marks.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T11:21:16.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

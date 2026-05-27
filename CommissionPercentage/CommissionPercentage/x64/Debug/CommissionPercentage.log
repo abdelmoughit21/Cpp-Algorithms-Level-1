@@ -1,0 +1,6 @@
+﻿  CommissionPercentage.cpp
+C:\Users\HP\Documents\Learning c++\CommissionPercentage\CommissionPercentage\CommissionPercentage.cpp(22,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\HP\Documents\Learning c++\CommissionPercentage\CommissionPercentage\CommissionPercentage.cpp(24,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\HP\Documents\Learning c++\CommissionPercentage\CommissionPercentage\CommissionPercentage.cpp(26,16): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\HP\Documents\Learning c++\CommissionPercentage\CommissionPercentage\CommissionPercentage.cpp(28,16): warning C4305: 'return': truncation from 'double' to 'float'
+  CommissionPercentage.vcxproj -> C:\Users\HP\Documents\Learning c++\CommissionPercentage\x64\Debug\CommissionPercentage.exe

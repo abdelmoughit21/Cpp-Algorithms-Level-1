@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\Level 1\\GradeABCDEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC92576-9912-4710-A956-775F19EEEED7}|GradeABCDEF\\GradeABCDEF.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\Level 1\\GradeABCDEF\\GradeABCDEF\\GradeABCDEF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFC92576-9912-4710-A956-775F19EEEED7}|GradeABCDEF\\GradeABCDEF.vcxproj|solutionrelative:GradeABCDEF\\GradeABCDEF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeABCDEF.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\Level 1\\GradeABCDEF\\GradeABCDEF\\GradeABCDEF.cpp",
+              "RelativeDocumentMoniker": "GradeABCDEF\\GradeABCDEF.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\Level 1\\GradeABCDEF\\GradeABCDEF\\GradeABCDEF.cpp",
+              "RelativeToolTip": "GradeABCDEF\\GradeABCDEF.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-22T14:24:13.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
